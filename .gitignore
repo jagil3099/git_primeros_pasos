@@ -1,0 +1,8 @@
+# Para los proyectos Node JS
+/nodemodules
+
+# ignore todos los archivos .txt
+*.txt
+
+#Archivo de configuración local
+.env
